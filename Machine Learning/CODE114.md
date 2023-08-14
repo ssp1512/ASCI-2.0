@@ -17,7 +17,7 @@ Detecting facial emotion and visualization through website
 
 ## Tech Stack used-
 1. Machine Learning
-2. Web Developement (Django framework)
+2. Web Development (Django framework)
 
 
 ## Weekly Report-
