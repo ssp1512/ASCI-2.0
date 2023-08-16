@@ -1,7 +1,7 @@
-## PROJECT NAME -
+## PROJECT NAME - flareUp
 
 
-## DOMAIN - 
+## DOMAIN - Finance
 
 
 
@@ -11,10 +11,18 @@
 ## ABOUT PROJECT - 
 
 
+
 ## Tech Stack used-
+Flutter
+Django
+MySQL
 
 
 ## Weekly Report-
+week -1 :
 
 
-## TEAM MEMBERS -
+## TEAM MEMBERS - 
+Dharmaraj Jena
+Nischint Dash
+Deepak Kumar Sahoo
