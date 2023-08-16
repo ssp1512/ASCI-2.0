@@ -5,10 +5,11 @@
 
 
 
-## LINK - 
+## LINK - https://github.com/codespike9/ASCI-2.0.flareUp
 
 
 ## ABOUT PROJECT - 
+A model to bridge the gap between start-up and investors by providing a platform where anyperson can invest 
 
 
 
