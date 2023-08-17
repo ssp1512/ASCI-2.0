@@ -1,5 +1,5 @@
-## PROJECT NAME -
-### GrabWay ~ Your One Stop Solution
+## PROJECT NAME - 
+<img src="https://user-images.githubusercontent.com/102992848/261389395-1095979a-8259-488d-883e-46827eda1409.png"/>
 
 
 ## DOMAIN - 
@@ -16,7 +16,7 @@ Carpool Services at your time at your price and hence termed as _"Your One Stop 
 ## Tech Stack used-
 - Node JS
 - React JS
-- MongoDDB
+- MongoDB
 - Google Map
 - Firebase
 - Express JS
@@ -26,6 +26,6 @@ Carpool Services at your time at your price and hence termed as _"Your One Stop 
 - Week 1 :- Devoloping the initial folder structure and basic skeletons of the UI
 
 ## TEAM MEMBERS -
-- Aditya Kumar Dutta
-- Abhinav Singh
-- Rajiv Lochan Dash
+- [Aditya Kumar Dutta](https://github.com/addymistrel)
+- [Abhinav Singh](https://github.com/Abhinav-2004)
+- [Rajiv Lochan Dash](https://github.com/razzivofficial)
