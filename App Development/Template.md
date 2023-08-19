@@ -16,7 +16,7 @@ A model to bridge the gap between start-up and investors by providing a platform
 ## Tech Stack used-
 Flutter
 Django
-MySQL
+SQLite
 
 
 ## Weekly Report-
