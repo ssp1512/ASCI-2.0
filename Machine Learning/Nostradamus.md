@@ -19,7 +19,7 @@ Machine Learning
 Web development
 
 ## Weekly Report- 
-Setting up the directories and the WEB UI
+Setting up the directories and the WEB UI, ML base dataset cleaning
 
 
 ## TEAM MEMBERS -
